@@ -1,4 +1,4 @@
-Cordova WifiInfoPlugin
+Cordova WifiInfoPlugin (Android/IOS)
 
 ==============
 
